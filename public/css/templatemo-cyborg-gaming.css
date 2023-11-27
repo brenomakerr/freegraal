@@ -136,7 +136,7 @@ body .page-content {
 
 p {
   font-size: 15px;
-  color: #666;
+  color: #a203ff;
   line-height: 30px;
   margin-bottom: 0px;
 }
@@ -199,13 +199,13 @@ p {
 }
 
 .border-no-active a {
-  border-color: #666;
-  color: #666;
+  border-color: #ec6090;
+  color: #ec6090;
 }
 
 .border-no-active a:hover{
-  border-color: #666;
-  color: #666;
+  border-color: #a203ff;
+  color: #a203ff;
   background-color: transparent;
 }
 
@@ -341,7 +341,7 @@ Header Style
   top: 0!important;
   left: 0;
   right: 0;
-  box-shadow: 0px 0px 10px rgba(0,0,0,1)!important;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.15)!important;
   -webkit-transition: all .5s ease 0s;
   -moz-transition: all .5s ease 0s;
   -o-transition: all .5s ease 0s;
@@ -385,14 +385,14 @@ Header Style
   height: 46px;
   border-radius: 23px;
   border: none;
-  color: #666;
+  color: #a203ff;
   font-size: 14px;
   padding: 0px 15px 0px 45px;
 }
 
 .header-area .main-nav #search i {
   position: absolute;
-  color: #666;
+  color: #a203ff;
   left: 20px;
   top: 16px;
   width: 18px;
@@ -449,7 +449,7 @@ Header Style
   font-weight: 400;
   font-size: 14px;
   text-transform: capitalize;
-  color: #666;
+  color: #ec6090;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -484,13 +484,13 @@ Header Style
 
 .header-area .main-nav .nav li:last-child:hover a,
 .header-area .main-nav .nav li:last-child a.active {
-  color: #fff !important;
+  color: #e75e8d !important;
   background-color: #e75e8d !important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fff;
+  color: #000;
   opacity: 1;
 }
 
@@ -611,15 +611,17 @@ Header Style
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #e75e8d;
+  background-color: #000;
 }
 
 .header-area.header-sticky {
   min-height: 70px;
+  background-color: #000;
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fff;
+  color: #000;
+  background-color: #000;
 }
 
 @media (max-width: 1200px) {
@@ -705,12 +707,12 @@ Header Style
     margin-top: 70px !important;
   }
   .header-area .main-nav .nav li:first-child {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #e75e8d;
   }
   .header-area .main-nav .nav li {
     width: 100%;
-    background: #fff;
-    border-bottom: 1px solid #eee;
+    background: #000;
+    border-bottom: 1px solid #e75e8d;
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
@@ -719,11 +721,11 @@ Header Style
     line-height: 50px !important;
     padding: 0px !important;
     border: none !important;
-    background: #fff !important;
-    color: #1e1e1e !important;
+    background: #000 !important;
+    color: #fff !important;
   }
   .header-area .main-nav .nav li a:hover {
-    background: #fff !important;
+    background: #000 !important;
     color: #e75e8d!important;
   }
   .header-area .main-nav .nav li:last-child a img {
@@ -773,7 +775,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner.gif);
+  background-image: url(../images/petalas.gif);
   background-position: center center;
   background-size: cover;
   min-height: 380px;
@@ -838,7 +840,7 @@ Most Popular Style
 }
 
 .most-popular .item span {
-  color: #666;
+  color: #a203ff;
   display: block;
   margin-top: 7px;
   font-weight: 400;
@@ -925,7 +927,7 @@ Gaming Library Style
 }
 
 .gaming-library .item ul li span {
-  color: #666;
+  color: #a203ff;
   font-size: 14px;
 }
 
@@ -1011,7 +1013,7 @@ Featured Games Style
 }
 
 .featured-games .item span {
-  color: #666;
+  color: #a203ff;
   display: block;
   margin-top: 7px;
   font-weight: 400;
@@ -1055,7 +1057,7 @@ Featured Games Style
 .featured-games .owl-nav .owl-next span  {
   font-size: 36px;
   display: inline-block;
-  color: #666;
+  color: #a203ff;
   opacity: 1;
   transition: all .3s;
 }
@@ -1092,7 +1094,7 @@ Featured Games Style
 
 .top-downloaded ul li h6 {
   font-size: 15px;
-  color: #666;
+  color: #a203ff;
   font-weight: 400;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -1331,7 +1333,7 @@ Game Details Style
 }
 
 .game-details .content .left-info span {
-  color: #666;
+  color: #a203ff;
   display: block;
   margin-top: 7px;
   font-weight: 400;
@@ -1425,7 +1427,7 @@ Other Related Style
 }
 
 .other-games .item span {
-  color: #666;
+  color: #a203ff;
   font-size: 14px;
   display: block;
 }
@@ -1557,10 +1559,10 @@ Profile Style
 .main-profile ul li {
   width: 100%;
   font-size: 14px;
-  color: #666;
+  color: #a203ff;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #666;
+  border-bottom: 1px solid #a203ff;
 }
 
 .main-profile ul li span {
