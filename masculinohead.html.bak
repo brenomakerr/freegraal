@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <title>Sayoz - Uploads & cia</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="css/fontawesome.css">
+    <link rel="stylesheet" href="css/templatemo-cyborg-gaming.css">
+    <link rel="stylesheet" href="css/owl.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
+
+TemplateMo 579 Cyborg Gaming
+
+https://templatemo.com/tm-579-cyborg-gaming
+
+-->
+    <audio autoplay="autoplay" hidden="hidden" src="audio/musica.mp3"></audio>  
+  </head>
+
+<body>
+
+  <!-- ***** Preloader Start ***** -->
+  <div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+  <!-- ***** Preloader End ***** -->
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="index.html" class="logo">
+                        <img src="images/logo.png" alt="">
+                    </a>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Search End ***** -->
+                    <div class="search-input">
+                      <form id="search" action="#">
+                        <input type="text" placeholder="pesquisar..." id='searchText' name="searchKeyword" onkeypress="handle" />
+                        <i class="fa fa-search"></i>
+                      </form>
+                    </div>
+                    <!-- ***** Search End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                        <li><a href="/">inicio</a></li>
+                        <li><a href="/casal">Casal</a></li>
+                        <li><a href="/masculino">Masculino</a></li>
+                        <li><a href="/masculinobody">Masculino (body)</a></li>    
+                        <li><a href="/masculinohead" class="active">Masculino (head)</a></li>                                            
+                        <li><a href="/feminino">Feminino</a></li>
+                        <li><a href="/animal">Animal </a></li>
+                    </ul>   
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
+        </div>
+    </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="page-content">
+
+
+
+          <!-- ***** Most Popular Start ***** -->
+          <div class="most-popular">
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="heading-section">
+                  <h4><em>Uploads</em> (head)</h4>
+                </div>
+                <div class="row">
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/0.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/0.gif" download="0.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/1.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/1.gif" download="1.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/2.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/2.gif" download="2.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/3.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/3.gif" download="3.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/4.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/4.gif" download="4.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/5.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/5.gif" download="5.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/6.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/6.gif" download="6.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/7.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/7.gif" download="7.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/8.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/8.gif" download="8.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/9.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/9.gif" download="9.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/10.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/10.gif" download="10.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/11.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/11.gif" download="11.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/12.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/12.gif" download="12.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/13.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/13.gif" download="13.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/14.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/14.gif" download="14.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/15.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/15.gif" download="15.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/16.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/16.gif" download="16.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/17.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/17.gif" download="17.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/18.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/18.gif" download="18.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/19.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/19.gif" download="19.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/20.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/20.gif" download="20.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/21.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/21.gif" download="21.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/22.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/22.gif" download="22.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/23.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/23.gif" download="23.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/24.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/24.gif" download="24.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/25.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/25.gif" download="25.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/26.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/26.gif" download="26.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/27.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/27.gif" download="27.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/28.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/28.gif" download="28.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/29.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/29.gif" download="29.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/30.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/30.gif" download="30.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/31.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/31.gif" download="31.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/32.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/32.gif" download="32.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/33.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/33.gif" download="33.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/34.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/34.gif" download="34.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/35.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/35.gif" download="35.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/36.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/36.gif" download="36.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/37.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/37.gif" download="37.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/38.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/38.gif" download="38.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/39.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/39.gif" download="39.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/40.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/40.gif" download="40.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/41.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/41.gif" download="41.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/42.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/42.gif" download="42.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/43.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/43.gif" download="43.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/44.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/44.gif" download="44.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/45.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/45.gif" download="45.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/46.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/46.gif" download="46.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/47.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/47.gif" download="47.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/48.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/48.gif" download="48.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/49.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/49.gif" download="49.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/50.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/50.gif" download="50.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/51.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/51.gif" download="51.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/52.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/52.gif" download="52.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/53.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/53.gif" download="53.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/54.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/54.gif" download="54.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/55.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/55.gif" download="55.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/56.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/56.gif" download="56.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/57.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/57.gif" download="57.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/58.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/58.gif" download="58.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/59.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/59.gif" download="59.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/60.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/60.gif" download="60.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/61.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/61.gif" download="61.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/62.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/62.gif" download="62.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/63.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/63.gif" download="63.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/64.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/64.gif" download="64.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/65.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/65.gif" download="65.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/66.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/66.gif" download="66.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/67.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/67.gif" download="67.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/68.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/68.gif" download="68.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/69.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/69.gif" download="69.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/70.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/70.gif" download="70.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/71.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/71.gif" download="71.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/72.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/72.gif" download="72.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/73.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/73.gif" download="73.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/74.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/74.gif" download="74.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/75.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/75.gif" download="75.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/76.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/76.gif" download="76.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/77.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/77.gif" download="77.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/78.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/78.gif" download="78.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/79.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/79.gif" download="79.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/80.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/80.gif" download="80.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/81.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/81.gif" download="81.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/82.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/82.gif" download="82.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/83.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/83.gif" download="83.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/84.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/84.gif" download="84.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/85.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/85.gif" download="85.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/86.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/86.gif" download="86.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/87.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/87.gif" download="87.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/88.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/88.gif" download="88.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/89.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/89.gif" download="89.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/90.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/90.gif" download="90.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/91.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/91.gif" download="91.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/92.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/92.gif" download="92.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/93.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/93.gif" download="93.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/94.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/94.gif" download="94.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div> 
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/95.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/95.gif" download="95.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/96.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/96.gif" download="96.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/97.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/97.gif" download="97.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/98.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/98.gif" download="98.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>    
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/99.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/99.gif" download="99.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>
+           <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <img src="uploads/masculinos/cabeca/100.gif" alt=""> 
+                  <div class="main-button">
+                    <a href="uploads/masculinos/cabeca/100.gif" download="100.gif">baixar</a>
+                  </div>
+                    </div>
+                  </div>                  
+                  <div class="col-lg-12">
+                    <div class="main-button">
+                      <br>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- ***** Most Popular End ***** -->
+          
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright © 2023 <a href="#">Sayoz Up</a> Todos os direitos reservados.
+         
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  <script src="js/isotope.min.js"></script>
+  <script src="js/owl-carousel.js"></script>
+  <script src="js/tabs.js"></script>
+  <script src="js/popup.js"></script>
+  <script src="js/custom.js"></script>
+
+
+  </body>
+
+</html>

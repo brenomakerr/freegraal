@@ -24,6 +24,14 @@ app.get('/masculino', async (req, res) => {
   res.sendFile('masculino.html', { root: __dirname })
 });
 
+app.get('/masculinobody', async (req, res) => {
+  res.sendFile('masculinobody.html', { root: __dirname })
+});
+
+app.get('/masculinohead', async (req, res) => {
+  res.sendFile('masculinohead.html', { root: __dirname })
+});
+
 app.get('/animal', async (req, res) => {
   res.sendFile('animal.html', { root: __dirname })
 });
